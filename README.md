@@ -1,1 +1,13 @@
-# dio-desafio-github-primeiro-repo
+# desafio projeto git da dio
+Repositorio criado para desafio de projeto
+
+
+
+
+
+
+
+
+
+
+
